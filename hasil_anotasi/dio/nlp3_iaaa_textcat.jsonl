@@ -1,0 +1,145 @@
+{
+  "PRODUCT_POSITIVE": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.8160828025477701,
+    "kripp_alpha": 0.5233566296857253,
+    "gwet_ac2": 0.7026223855663892
+  },
+  "PRODUCT_NEGATIVE": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.9806263269639066,
+    "kripp_alpha": 0.390506942202604,
+    "gwet_ac2": 0.9800058193068543
+  },
+  "PRODUCT_NEUTRAL": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.9607218683651804,
+    "kripp_alpha": 0.03715945795809127,
+    "gwet_ac2": 0.9590647631791065
+  },
+  "PRICE_POSITIVE": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.9580679405520167,
+    "kripp_alpha": 0.834412586508222,
+    "gwet_ac2": 0.9433813803333039
+  },
+  "PRICE_NEGATIVE": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.9861995753715498,
+    "kripp_alpha": 0.6805956258728145,
+    "gwet_ac2": 0.9855868576748844
+  },
+  "PRICE_NEUTRAL": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.9689490445859869,
+    "kripp_alpha": 0.2569674067078747,
+    "gwet_ac2": 0.9676304675946382
+  },
+  "PLACE_POSITIVE": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.780520169851378,
+    "kripp_alpha": 0.517789474896609,
+    "gwet_ac2": 0.5989906352654786
+  },
+  "PLACE_NEGATIVE": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.9774416135881103,
+    "kripp_alpha": 0.7189935005229835,
+    "gwet_ac2": 0.9754416179368288
+  },
+  "PLACE_NEUTRAL": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.9819532908704881,
+    "kripp_alpha": 0.02033825733317768,
+    "gwet_ac2": 0.9816154575044826
+  },
+  "PROMOTION_POSITIVE": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.9007430997876853,
+    "kripp_alpha": 0.11158313483783024,
+    "gwet_ac2": 0.888325561206761
+  },
+  "PROMOTION_NEGATIVE": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.9952229299363057,
+    "kripp_alpha": -0.0022300095538321735,
+    "gwet_ac2": 0.9952000914848312
+  },
+  "PROMOTION_NEUTRAL": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.9883227176220806,
+    "kripp_alpha": 0.11855587576151126,
+    "gwet_ac2": 0.9881669859185093
+  },
+  "OUT_OF_TOPIC": {
+    "n_examples": 3149,
+    "n_categories": 13,
+    "n_coincident_examples": 1256,
+    "n_single_annotation": 2,
+    "n_annotators": 3,
+    "avg_raters_per_example": 2.5031796502384736,
+    "percent_agreement": 0.8527070063694265,
+    "kripp_alpha": 0.18877123922467648,
+    "gwet_ac2": 0.8212921068028236
+  }
+}
