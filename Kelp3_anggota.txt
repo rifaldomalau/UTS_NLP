@@ -1,1 +1,6 @@
 Hot Rifaldo Malau (230712537)
+Dio
+Vicko
+
+Repo Github: https://github.com/rifaldomalau/UTS_NLP.git
+Streamlit: https://kelp3app.streamlit.app/
