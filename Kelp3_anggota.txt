@@ -1,6 +1,6 @@
 Hot Rifaldo Malau (230712537)
-Dio
-Vicko
+Dionisio Raditya Prasmada (230712370)
+Lodevick Bintang Saputra (230712386)
 
 Repo Github: https://github.com/rifaldomalau/UTS_NLP.git
 Streamlit: https://kelp3app.streamlit.app/
